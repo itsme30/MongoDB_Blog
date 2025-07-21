@@ -1,7 +1,5 @@
 # NodeJs, Express, EJS & MongoDB Blog - CRUD
-
-![alt text](/readme-image.jpg?raw=true)
-
+<img width="1196" height="645" alt="Screenshot 2025-07-21 180042" src="https://github.com/user-attachments/assets/c97cb6e8-905c-41e9-b5d0-dcf9891c2f9b" />
 ## You need:
 - NodeJs
 - Database (MongoDB) Free Cluster
